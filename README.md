@@ -1,5 +1,11 @@
-Dear Diary is a simple single page web app that uses Next.Js
+domains:
+dd-git-main-bambi-sudo.vercel.app 
+dd-bambi-sudo.vercel.app
+dd-rust.vercel.app
+-------------------
 
+
+Dear Diary is a simple single page web app that uses Next.Js
 First we will start by creating our folder, open Node.js or use you visual studio terminal to execute the follow statement:
 ---------------------------------------------------------------------------------------------------
 npx create-next-app nextjs-blog --use-npm --example "https://github.com/vercel/next-learn/tree/master/basics/learn-starter
